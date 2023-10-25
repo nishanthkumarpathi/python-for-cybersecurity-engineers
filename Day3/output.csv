@@ -1,0 +1,2 @@
+name,age,occupation,street,city,state,zip,mobile_number,home_number,skills
+John Doe,30,Software Engineer,123 Main Street,San Francisco,CA,94105,+1 (555) 555-5555,+1 (415) 555-5555,"Python, JavaScript, Java, C++"

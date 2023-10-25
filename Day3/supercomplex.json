@@ -1,0 +1,138 @@
+{
+    "users": [
+      {
+        "name": "John Doe",
+        "age": 30,
+        "occupation": "Software Engineer",
+        "address": {
+          "street": "123 Main Street",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94105"
+        },
+        "phone_numbers": [
+          {
+            "type": "mobile",
+            "number": "+1 (555) 555-5555"
+          },
+          {
+            "type": "home",
+            "number": "+1 (415) 555-5555"
+          }
+        ],
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Java",
+          "C++"
+        ]
+      },
+      {
+        "name": "Jane Doe",
+        "age": 25,
+        "occupation": "Web Developer",
+        "address": {
+          "street": "456 Elm Street",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94105"
+        },
+        "phone_numbers": [
+          {
+            "type": "mobile",
+            "number": "+1 (555) 555-5556"
+          },
+          {
+            "type": "home",
+            "number": "+1 (415) 555-5556"
+          }
+        ],
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Python"
+        ]
+      },
+      {
+        "name": "Peter Smith",
+        "age": 40,
+        "occupation": "Product Manager",
+        "address": {
+          "street": "789 Oak Street",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94105"
+        },
+        "phone_numbers": [
+          {
+            "type": "mobile",
+            "number": "+1 (555) 555-5557"
+          },
+          {
+            "type": "home",
+            "number": "+1 (415) 555-5557"
+          }
+        ],
+        "skills": [
+          "Product Management",
+          "Marketing",
+          "Sales"
+        ]
+      },
+      {
+        "name": "Mary Jones",
+        "age": 35,
+        "occupation": "Data Scientist",
+        "address": {
+          "street": "1011 Pine Street",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94105"
+        },
+        "phone_numbers": [
+          {
+            "type": "mobile",
+            "number": "+1 (555) 555-5558"
+          },
+          {
+            "type": "home",
+            "number": "+1 (415) 555-5558"
+          }
+        ],
+        "skills": [
+          "Python",
+          "R",
+          "SQL",
+          "Mathematics"
+        ]
+      },
+      {
+        "name": "David Wilson",
+        "age": 28,
+        "occupation": "Software Engineer",
+        "address": {
+          "street": "1213 Spruce Street",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94105"
+        },
+        "phone_numbers": [
+          {
+            "type": "mobile",
+            "number": "+1 (555) 555-5559"
+          },
+          {
+            "type": "home",
+            "number": "+1 (415) 555-5559"
+          }
+        ],
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Java",
+          "C++"
+        ]
+      }
+    ]
+  }  

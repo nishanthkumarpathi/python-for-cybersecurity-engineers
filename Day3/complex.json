@@ -1,0 +1,27 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "occupation": "Software Engineer",
+    "address": {
+      "street": "123 Main Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94105"
+    },
+    "phone_numbers": [
+      {
+        "type": "mobile",
+        "number": "+1 (555) 555-5555"
+      },
+      {
+        "type": "home",
+        "number": "+1 (415) 555-5555"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "C++"
+    ]
+  }  
