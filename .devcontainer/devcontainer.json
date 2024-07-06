@@ -1,0 +1,26 @@
+{
+    "name": "PythonContainer",
+    "dockerComposeFile": [
+        "docker-compose.yml"
+    ],
+    "service": "python-service",
+    "shutdownAction": "stopCompose",
+    "workspaceFolder": "/workspace/",
+    "portsAttributes": {
+        "8888": {
+            "label": "Application",
+            "onAutoForward": "notify"
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter"
+            ],
+            "settings": {
+                "python.defaultInterpreterPath": "/usr/local/bin/python"
+            }
+        }
+    }
+}

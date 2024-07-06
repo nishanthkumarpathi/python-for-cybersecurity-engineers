@@ -1,0 +1,10 @@
+services:
+  python-service:
+    build:
+      context: .
+      dockerfile: Dockerfile.python
+    volumes:
+      - ..:/workspace:cached
+    command: sleep infinity
+    ports:
+      - 80:80

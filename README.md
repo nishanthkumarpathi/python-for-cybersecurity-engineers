@@ -1,3 +1,18 @@
 # Python for Cyber Security Engineers
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nishanthkumarpathi/python-for-cybersecurity-engineers)
+TODO: Restructure Day2, Day3, Day4
+
+TODO: Complete the following Sections
+    - Variables
+    - Data Types
+    - Strings
+    - Boolean
+    - Operators
+    - Lists ( Fine tune Materials)
+    - Tuples
+    - Dictionary( Fine Tune Materails)
+    - If Else Conditions
+    - While Loop
+    - For Loop
+    - Arrays
+    - Modules

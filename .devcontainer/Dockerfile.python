@@ -1,0 +1,7 @@
+FROM mcr.microsoft.com/devcontainers/python:3.8
+
+COPY requirements.txt /workspace/requirements.txt
+
+COPY setup.sh /workspace/setup.sh
+
+RUN chmod +x /workspace/setup.sh && /workspace/setup.sh
